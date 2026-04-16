@@ -1,0 +1,11 @@
+Metric,Value
+Total Samples,444602
+Normal Samples,222302
+Attack Samples,222300
+Features (Raw),18
+Features (HG-Aug),27
+Train Split,302328
+Val Split,53353
+Test Split,88921
+Class Balance,50/50
+Unique Source IPs,2

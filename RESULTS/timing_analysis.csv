@@ -1,0 +1,10 @@
+,Value
+Total Pipeline Time (s),4673.96
+RAVEN-ADE++ Training Time (s),329.06
+Inference Latency (ms/sample),0.0586
+Throughput (req/s),18602.9
+Model Memory (MB),0.26
+Epochs Trained,60.0
+HG Feature Dim,27.0
+Training Samples,302328.0
+Test Samples,88921.0

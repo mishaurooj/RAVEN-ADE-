@@ -1,0 +1,4 @@
+,Latency(ms/req),Throughput(req/s),Memory(MB),"Energy(J,proxy)"
+RAVEN-ADE++ (Full),0.0538,18602.9,0.26,1.4e-05
+Light Version,0.039,25666.5,0.02,1e-06
+CNN-1D Baseline,0.0212,47153.3,0.0,0.0

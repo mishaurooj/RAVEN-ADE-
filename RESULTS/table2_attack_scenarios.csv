@@ -1,0 +1,6 @@
+,Target Features,Intensity,N Injected,Detectability
+DoS Attack,processing_time_ms spike,8-15×,44460,High
+Payload Injection,vars_size_bytes+num_vars,10-20×,44460,High
+Header Flood,num_headers+headers_size,8-15×,44460,Medium
+API Abuse,method+path randomization,Random,44460,Medium
+Insider Mimic,multi-field subtle drift,1.3-2.5×,44460,Low
