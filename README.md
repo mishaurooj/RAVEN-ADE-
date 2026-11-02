@@ -34,10 +34,6 @@ The dataset contains five attack families:
 
 ## OSDS-LogSec Dataset Workflow
 
-<p align="center">
-  <img src="osds_logsec_dataset_collection_workflow.png" width="100%">
-</p>
-
 The dataset workflow starts with a private OpenStack DevStack deployment where authentication, authorization, and resource-management events are logged. Audit logs and service logs are synchronized by user, request, session, and timestamp. Raw metadata, execution statistics, semantic context, and temporal information are extracted and converted into structured features.
 
 The final dataset combines:
